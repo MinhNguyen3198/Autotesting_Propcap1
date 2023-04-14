@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>AP_Logout Successfully</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f93dad9b-11cd-48e0-88ca-effa30f90c1e</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>1905db6c-8cdd-4d33-b0e0-c1254017d115</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>03417449-ea82-446c-8ccd-d66ad1491760</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>77ca8f4f-fe1f-4250-abf4-a39574d9cd3a</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'minh.nguyen2@bnksolution.com\r\n'</defaultValue>
+      <description></description>
+      <id>1905db6c-8cdd-4d33-b0e0-c1254017d115</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+   <variable>
+      <defaultValue>'C/Qzn8ORT1P96Z4jkVNA+g==\r\n'</defaultValue>
+      <description></description>
+      <id>03417449-ea82-446c-8ccd-d66ad1491760</id>
+      <masked>false</masked>
+      <name>AP_password</name>
+   </variable>
+   <variable>
+      <defaultValue>'QSYkr2ffJu+rozihREsVxQ=='</defaultValue>
+      <description></description>
+      <id>77ca8f4f-fe1f-4250-abf4-a39574d9cd3a</id>
+      <masked>false</masked>
+      <name>mail_password</name>
+   </variable>
+</TestCaseEntity>

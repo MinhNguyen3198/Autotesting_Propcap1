@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Welcome to PropCap Admin PortalWe do Ma_391d94</name>
+   <tag></tag>
+   <elementGuidId>48f48f5a-860b-4a75-b083-cfcb6c976517</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/section/section/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.main_homePage__qYjJW</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>368fce8a-d2ef-4834-9e38-e3eec3e6f73f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>main_homePage__qYjJW</value>
+      <webElementGuid>1edad471-1e08-4a95-b32e-43ec6e72de17</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Welcome to PropCap Admin PortalWe do Match-Lending Platform for Overseas Property Mortgage</value>
+      <webElementGuid>c300ebd1-d5d4-4454-bb1c-a418a9a2947a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;App&quot;]/section[@class=&quot;ant-layout ant-layout-has-sider&quot;]/section[@class=&quot;ant-layout&quot;]/div[@class=&quot;main_homePage__qYjJW&quot;]</value>
+      <webElementGuid>32783d9f-68aa-4f46-b793-248970bcbe24</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/section/section/div</value>
+      <webElementGuid>16c83a44-37b9-4ebd-beb5-00c571a2215e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Collapse'])[1]/following::div[1]</value>
+      <webElementGuid>39b08f1d-6ad5-4d9d-937e-a3d6e775ed27</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Logout'])[1]/following::div[2]</value>
+      <webElementGuid>b048e693-2535-454d-803d-98c48730ce57</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section/div</value>
+      <webElementGuid>c37ee061-acf1-4c0c-b00a-ae5a890bae57</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Welcome to PropCap Admin PortalWe do Match-Lending Platform for Overseas Property Mortgage' or . = 'Welcome to PropCap Admin PortalWe do Match-Lending Platform for Overseas Property Mortgage')]</value>
+      <webElementGuid>a4e85562-ac91-4859-bc14-3dd25a20bca5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

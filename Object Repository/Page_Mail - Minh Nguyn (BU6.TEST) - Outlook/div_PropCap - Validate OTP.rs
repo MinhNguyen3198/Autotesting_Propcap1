@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_PropCap - Validate OTP</name>
+   <tag></tag>
+   <elementGuidId>107eb2ed-c95b-4191-b726-01341df7fbb7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='AQAAAUfMoqgBAAACTNluNQAAAAA=']/div/div/div/div[2]/div[2]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.IjzWp.XG5Jd.gy2aJ.Ejrkd</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>0fc14af7-2622-4414-b99a-22a89c8ed5a0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>IjzWp XG5Jd gy2aJ Ejrkd</value>
+      <webElementGuid>a5670292-2d2b-480e-94a2-b2307d1b4294</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>PropCap - Validate OTP</value>
+      <webElementGuid>45826011-e49c-4be6-b9e0-8d37660f43f2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;AQAAAUfMoqgBAAACTNluNQAAAAA=&quot;)/div[1]/div[@class=&quot;zKDWD YbB6r IKvQi IjQyD JCRRb cSOXK G1NES&quot;]/div[@class=&quot;XG5Jd JtO0E&quot;]/div[@class=&quot;S2NDX&quot;]/div[@class=&quot;zht_v Q19mi&quot;]/div[@class=&quot;IjzWp XG5Jd gy2aJ Ejrkd&quot;]</value>
+      <webElementGuid>7f77c426-4bae-4fd9-9186-1d897728d892</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='AQAAAUfMoqgBAAACTNluNQAAAAA=']/div/div/div/div[2]/div[2]/div</value>
+      <webElementGuid>9c1a6673-d5f4-4f90-8b27-650da2d48d49</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PropCap Technologies Limited'])[1]/following::div[3]</value>
+      <webElementGuid>1478f629-c702-40b5-ac5d-44e97f79021e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PL'])[1]/following::div[7]</value>
+      <webElementGuid>779cb993-3c7e-4f5c-a843-20c2c756269c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='BS'])[1]/preceding::div[6]</value>
+      <webElementGuid>a702a549-0923-4ccb-80db-bd8604bb7760</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div[2]/div[2]/div</value>
+      <webElementGuid>ebff7f49-3359-419d-a459-f41abb200d0e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'PropCap - Validate OTP' or . = 'PropCap - Validate OTP')]</value>
+      <webElementGuid>0d1864e3-19bf-4d1a-bf33-7174e09d6aea</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
