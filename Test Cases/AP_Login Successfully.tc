@@ -24,7 +24,7 @@
       <variableId>aab5a18c-10bf-4a68-8628-197a28e05876</variableId>
    </variableLinks>
    <variable>
-      <defaultValue>'minh.nguyen2@bnksolution.com\r\n'</defaultValue>
+      <defaultValue>'minh.nguyen\r\n'</defaultValue>
       <description></description>
       <id>90b20a2a-1455-427b-8b95-ef3fc4ab57cd</id>
       <masked>false</masked>
